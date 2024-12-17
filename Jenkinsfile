@@ -1,4 +1,4 @@
-@Library('shared_library@main') _
+@Library('demo') _
 
 node {
     stage('Git Checkout') {
